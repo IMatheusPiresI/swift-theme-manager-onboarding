@@ -2,7 +2,7 @@
 
 <br/>
 
-Project repository **Theme Manager** development with **Swift, UIKit, MVVM, Switch Multiple Themes, Delegate, ViewCode, Constraints, Design Pattern, Custom Components**
+Project repository **Theme Manager** development with **Swift, UIKit, MVVM, Delegate, ViewCode, Constraints, Design Pattern, Custom Components**
 
 <h3 id="acessar-projeto">📁 Preview</h3>
 <p align="center">
@@ -32,7 +32,7 @@ Project repository **Theme Manager** development with **Swift, UIKit, MVVM, Swit
 
 <h3 id="sobre">📍 About</h3>
 
-✅ Developed with **Swift, UIKit, MVVM, Switch Multiple Themes, Delegate, ViewCode, Constraints, Design Pattern, Custom Components**.<br>
+✅ Developed with **Swift, UIKit, MVVM, Delegate, ViewCode, Constraints, Design Pattern, Custom Components**.<br>
 ✅ Project created using MVVM pattern and delegate protocol.<br>
 ✅ Use notification center for notify controllers and components about theme change. <br>
 ✅ ThemeManager create for switch multiple themes in application<br>
